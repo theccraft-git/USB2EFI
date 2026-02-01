@@ -3,7 +3,7 @@ title USB2EFI
 setlocal enabledelayedexpansion
 
 :: --- VERSION CONFIG ---
-set "version=v1.0.0-beta"
+set "version=v0.1.0-beta"
 
 :MENU
 set "efi_path="
